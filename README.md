@@ -2,7 +2,7 @@
 北京天气降水雷达图
 Beijing Weather precipitation Radar Map
 
->这是一个下载http://www.nmc.cn/网站的PNG雷达图， 生成gif 动图的项目。
+>这是一个下载http://www.nmc.cn/网站的PNG雷达图， 生成gif 动图的项目，每次运行下载24小时的图片合成gif动画
 
 >This is a project which downloads the PNG from http://www.nmc.cn/, then generator GIF .
 
